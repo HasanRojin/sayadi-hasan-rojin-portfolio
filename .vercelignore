@@ -1,0 +1,20 @@
+# Keep the Vercel upload lean — only the actual Next.js app + public assets
+assets-temp
+download
+upload
+db
+prisma
+examples
+mini-services
+tests
+scripts
+.zscripts
+.z-ai-config
+.claude
+agent-ctx
+worklog.md
+7zip
+*.zip
+*.tar
+*.tar.xz
+*.log
